@@ -54,6 +54,8 @@ public class Caja {
 			System.out.println("Método de pago no válido. Por favor, seleccione 'Efectivo' o 'Tarjeta'.");
 		}
 
+
+		System.out.println("Gracias por usar este programa")
 		scanner.close();
 	}
 
